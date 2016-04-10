@@ -1,0 +1,6 @@
+E:\!!The lections\8 семестр\ПЧМИ\lab1\lab1\bin\Debug\lab1.exe.config
+E:\!!The lections\8 семестр\ПЧМИ\lab1\lab1\bin\Debug\lab1.exe
+E:\!!The lections\8 семестр\ПЧМИ\lab1\lab1\bin\Debug\lab1.pdb
+E:\!!The lections\8 семестр\ПЧМИ\lab1\lab1\obj\Debug\lab1.csprojResolveAssemblyReference.cache
+E:\!!The lections\8 семестр\ПЧМИ\lab1\lab1\obj\Debug\lab1.exe
+E:\!!The lections\8 семестр\ПЧМИ\lab1\lab1\obj\Debug\lab1.pdb
